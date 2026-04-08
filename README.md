@@ -282,7 +282,4 @@ tags:
 The `app.py` entrypoint serves on port 7860 by default for HF Spaces.
 
 ---
-
-## 📄 License
-
-MIT License
+## THANK YOU
